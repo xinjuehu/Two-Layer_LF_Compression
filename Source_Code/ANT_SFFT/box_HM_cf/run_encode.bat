@@ -1,0 +1,1 @@
+TAppEncoder.exe -c encoder_intra_main.cfg -c generated.cfg>>encoder_log.txt
