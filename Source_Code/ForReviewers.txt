@@ -1,0 +1,16 @@
+-----2019-Jan-27-------
+Thank you for reviewing!
+-----------------------
+Please follow the steps below to start the Demo:
+(1) Enter the upper directory of the ANT_SFFT folder in MATLAB
+(2) In Current Folder bar (In the left part of the window), right click on the ANT_SFFT folder. 
+    Select "Add to Path -- Selected Folder and Subfolders"
+(3) Double-click the ANT_SFFT folder to enter the "~\ANT_SFFT" path
+(4) Open the file Demo.m
+(5) Click the Run icon or Press the F5.
+-----------------------
+Notice:
+(1) Please note that the running time may exceed 5 hours. Sorry for that. It is just a verification demo, and is very inefficient.
+(2) For a detailed description of the Demo project, please see the ReadMe.txt file under the "~\ANT_SFFT" path.
+-----------------------
+Thanks for your time!
